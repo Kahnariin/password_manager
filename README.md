@@ -1,3 +1,3 @@
 # (EN) Simple Password Manager
 
-* written by Python
+* written with Python
